@@ -15,4 +15,4 @@
 #
 
 add_lunch_combo aosp_mako-userdebug
-add_lunch_combo illusion_mako-userdebug
+add_lunch_combo illusion_mako-user
